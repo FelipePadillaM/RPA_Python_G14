@@ -88,6 +88,15 @@ f2.txt 12096
 
 this is an alternative to view the results using a binary tree data structure.
 
+first you need to choose the PATH folder in main.py file, in this PATH the algorithms search and organize the files in other folders.
+
+This is an example of a PATH for your files folder: 
+```bash
+#? Constants
+PATH = 'D:\\2022\Academlo\Algoritmos - Python\RPA\\'
+```
+
+Now, you can run the main.py file to see the results.
 ```bash
 python main.py
 ```
